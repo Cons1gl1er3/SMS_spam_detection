@@ -2,7 +2,7 @@
 
 This is the Capstone project for the Course "IT3160E - Intro to AI" of Asso Prof. Than Quang Khoat
 
-You can also run the source code online using google colab at this link: https://colab.research.google.com/drive/1nKpA87A9pEULQWO4c42EFAk6A69MKPf2?usp=sharing
+You can also run the source code online using google colab at this link: https://drive.google.com/file/d/1X65eqxAzBqjja3JyV0J883auY5zQr0by/view?usp=sharing
 
 ## Table of Contents
 - [Installation](#installation)
