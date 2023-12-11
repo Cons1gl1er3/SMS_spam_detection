@@ -18,7 +18,7 @@ Required packages: matplotlib, numpy, pandas, skikit-learn, pipeline, nltk, hype
 
 ## Usage
 
-Hit the run button to run the code, a window will pop out and ask you to give in the SMS. After hit enter, the application will tells you whether the SMS is spam or ham
+Hit the run button to run the code, a window will pop out and ask you to give in the SMS. After hitting enter, the application will tells you whether the SMS is spam or ham
 
 ## Configuration
 
@@ -26,5 +26,8 @@ There are 6 functions to tune the parameters. Uncomment each to test.
 
 ## Contributing
 
-Viet Anh - 20226013
-Phi Tuan - 2022....
+Tran Viet Anh - 20226013
+Tuong Phi Tuan - 20226069
+Thibault Erwan Ludovic Lecordier - 2023T014
+Adrien Monteiro - 2023T012
+Diego De Sousa - 2023T013
