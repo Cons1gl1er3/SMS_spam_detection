@@ -27,7 +27,11 @@ There are 6 functions to tune the parameters. Uncomment each to test.
 ## Contributing
 
 Tran Viet Anh - 20226013
+
 Tuong Phi Tuan - 20226069
+
 Thibault Erwan Ludovic Lecordier - 2023T014
+
 Adrien Monteiro - 2023T012
+
 Diego De Sousa - 2023T013
