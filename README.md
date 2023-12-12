@@ -2,7 +2,7 @@
 
 This is the Capstone project for the Course "IT3160E - Intro to AI" of Asso Prof. Than Quang Khoat
 
-You can also run the source code online using google colab at this link: https://colab.research.google.com/drive/1nKpA87A9pEULQWO4c42EFAk6A69MKPf2?usp=sharing
+You can also run the source code online using google colab at this link: https://drive.google.com/file/d/1X65eqxAzBqjja3JyV0J883auY5zQr0by/view?usp=sharing
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,7 +18,7 @@ Required packages: matplotlib, numpy, pandas, skikit-learn, pipeline, nltk, hype
 
 ## Usage
 
-Hit the run button to run the code, a window will pop out and ask you to give in the SMS. After hit enter, the application will tells you whether the SMS is spam or ham
+Hit the run button to run the code, a window will pop out and ask you to give in the SMS. After hitting enter, the application will tells you whether the SMS is spam or ham
 
 ## Configuration
 
@@ -26,5 +26,12 @@ There are 6 functions to tune the parameters. Uncomment each to test.
 
 ## Contributing
 
-Viet Anh - 20226013
-Phi Tuan - 2022....
+Tran Viet Anh - 20226013
+
+Tuong Phi Tuan - 20226069
+
+Thibault Erwan Ludovic Lecordier - 2023T014
+
+Adrien Monteiro - 2023T012
+
+Diego De Sousa - 2023T013
