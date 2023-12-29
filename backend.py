@@ -14,8 +14,8 @@ import string
 # Data Transformation
 from sklearn.feature_extraction.text import CountVectorizer
 
-data1 = pd.read_csv('/SMS_spam_detection/Dataset/spam1.csv', encoding="ISO-8859-1")
-data2 = pd.read_csv('/SMS_spam_detection/Dataset/spam2.csv', encoding="ISO-8859-1")
+data1 = pd.read_csv('./Dataset/spam1.csv', encoding="ISO-8859-1")
+data2 = pd.read_csv('./Dataset/spam2.csv', encoding="ISO-8859-1")
 
 # Drop null columns
 data1.drop(['Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4'], axis = 1, inplace = True)
@@ -71,7 +71,7 @@ def classify_message(message):
     
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('./index.html')
 
 @app.route('/check_spam', methods=['POST'])
 def check_spam():
