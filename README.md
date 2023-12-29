@@ -7,8 +7,6 @@ This is the Capstone project for the Course "IT3160E - Intro to AI" of Asso. Pro
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
