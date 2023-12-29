@@ -1,3 +1,5 @@
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
 # SMS SPAM CLASSIFICATION
 
 This is the Capstone project for the Course "IT3160E - Intro to AI" of Asso. Prof. Than Quang Khoat
