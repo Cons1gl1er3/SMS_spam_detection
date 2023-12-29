@@ -1,8 +1,8 @@
 # SMS SPAM CLASSIFICATION
 
-This is the Capstone project for the Course "IT3160E - Intro to AI" of Asso Prof. Than Quang Khoat
+This is the Capstone project for the Course "IT3160E - Intro to AI" of Asso. Prof. Than Quang Khoat
 
-You can also run the source code online using google colab at this link: https://drive.google.com/file/d/1X65eqxAzBqjja3JyV0J883auY5zQr0by/view?usp=sharing
+You can also run the source code online using google colab at this link: https://colab.research.google.com/drive/1c8wpzOV_ZvSRwiO0L8MEAhyxcFORWRul?usp=sharing
 
 ## Table of Contents
 - [Installation](#installation)
