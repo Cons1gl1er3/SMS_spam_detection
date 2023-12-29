@@ -24,7 +24,7 @@ We deploy and train data using 6 different settings (3 models x 2 feature extrac
 
 ## Configuration
 
-- 1. In root, run 'pip install -q -r requirements.txt' to install all the required packages
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 1. In root, run 'pip install -q -r requirements.txt' to install all the required packages
 - 2. Open the file 'main.html' in your browser
 - 3. Enter your SMS into the box, then simply click 'Check'. You can find some examples within the 'sample.txt' file.
 
