@@ -18,7 +18,9 @@ Required packages: matplotlib, numpy, pandas, skikit-learn, pipeline, nltk, hype
 
 ## Usage
 
-Hit the run button to run the code, a window will pop out and ask you to give in the SMS. After hitting enter, the application will tells you whether the SMS is spam or ham
+Run the main.html file to test on our web interface. Since the spam messages in the training data is quite long, it is recommended to test with a 20-word or more text.
+
+All of the hyperparameter tuning and data visualization is located in the 'notebook.ipynb' file. Here you can uncomment the code in the "Hyperparameter" section to run the tuning part (we commented out to reduce the computation time).
 
 ## Configuration
 
