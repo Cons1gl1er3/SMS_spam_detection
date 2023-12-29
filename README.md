@@ -2,8 +2,6 @@
 
 This is the Capstone project for the Course "IT3160E - Intro to AI" of Asso. Prof. Than Quang Khoat
 
-You can also run the source code online using google colab at this link: https://colab.research.google.com/drive/1c8wpzOV_ZvSRwiO0L8MEAhyxcFORWRul?usp=sharing
-
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,13 +16,15 @@ Required packages: matplotlib, numpy, pandas, skikit-learn, pipeline, nltk, hype
 
 ## Usage
 
-Run the main.html file to test on our web interface. Since the spam messages in the training data is quite long, it is recommended to test with a 20-word or more text.
+Run the main.html file to test on our web interface. Since the spam messages in the training data are quite long, it is recommended to use text of 20-word or more.
 
-All of the hyperparameter tuning and data visualization is located in the 'notebook.ipynb' file. Here you can uncomment the code in the "Hyperparameter" section to run the tuning part (we commented out to reduce the computation time).
+We deploy and train data using 6 different settings (3 models x 2 feature extraction techniques) and perform hyperparameter tuning within the Notebook.ipynb file. You can also find some data visualization there.
 
 ## Configuration
 
-There are 6 functions to tune the parameters. Uncomment each to test.
+- 1. In root, run 'pip install -q -r requirements.txt' to install all the required packages
+- 2. Open the file 'main.html' in your browser
+- 3. Enter your SMS into the box, then simply click 'Check'. You can find some examples within the 'sample.txt' file.
 
 ## Contributing
 
